@@ -7,9 +7,9 @@ double velocity;
 void calaculate_velocity (){
 
     int Startpoint,Endpoint;
-    printf("Enter The First Number : \n");
+    printf("Enter The Start Point : \n");
     scanf("%d",&Startpoint);
-    printf("Enter The First Number : \n");
+    printf("Enter The End Point : \n");
     scanf("%d",&Endpoint);
 
  for (int Tc=Startpoint;Tc<=Endpoint;Tc++){
